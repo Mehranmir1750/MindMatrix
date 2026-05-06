@@ -15,7 +15,7 @@ function Result({ scores }) {
       try {
 
         const response = await fetch(
-          "http://localhost:5000/analyze",
+          "https://mindmatrix-3g9q.onrender.com",
           {
             method: "POST",
 
