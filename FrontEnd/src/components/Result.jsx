@@ -4,7 +4,7 @@ import { useEffect, useState } from "react";
 
 function Result({ scores }) {
 
-  const [analysis, setAnalysis] = useState("");
+  const [analysis, setAnalysis] = useState("Generating AI personality analysis...");
 
 
 

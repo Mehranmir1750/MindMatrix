@@ -24,11 +24,6 @@
     font-size: 15px;
 }
 
-.option-button:hover{
-    transform: translateY(-5px);
-    background-color: aliceblue;
-}
-
 .buttons{
     display: flex;
     gap: 10px;
