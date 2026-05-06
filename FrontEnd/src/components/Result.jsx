@@ -15,7 +15,7 @@ function Result({ scores }) {
       try {
 
         const response = await fetch(
-          "https://mindmatrix-3g9q.onrender.com",
+          "https://mindmatrix-3g9q.onrender.com/analyze",
           {
             method: "POST",
 
