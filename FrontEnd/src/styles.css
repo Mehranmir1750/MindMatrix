@@ -22,10 +22,10 @@ body {
 
 button {
   margin: 10px 0;
-  padding: 10px;
+  padding: 12px;
   width: 100%;
   border: none;
-  border-radius: 8px;
+  border-radius: 9px;
   background: #3b82f6;
   color: white;
   cursor: pointer;
